@@ -3,3 +3,4 @@ My goals for this week
 2. Become my proficient in software development
 3. improve my understanding of Git and GitHub, and become more confident with
     Git branching and recovery workflows.
+Temporary text added
