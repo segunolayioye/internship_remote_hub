@@ -1,0 +1,5 @@
+My goals for this week 
+1. Read books
+2. Become my proficient in software development
+3. improve my understanding of Git and GitHub, and become more confident with
+    Git branching and recovery workflows.
