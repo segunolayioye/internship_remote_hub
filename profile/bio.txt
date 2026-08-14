@@ -1,0 +1,6 @@
+I am a computer science student developing my skills in softaware 
+engineering and web development. I am familiar with javascript, vue.js, 
+tailwind css, vite git and github. I am currently focused on strengthening my 
+programming skills and gaining practical experience building functional 
+softaware systems.
+
