@@ -1,0 +1,17 @@
+"use strict";
+const startingUsd = 100;
+const conversionRate = 1500;
+const feeRate = 0.02;
+const convertedAmount = startingUsd * conversionRate;
+const transactionFee = convertedAmount * feeRate;
+const finalAmount = convertedAmount - transactionFee;
+console.log("================================");
+console.log("       CURRENCY RECEIPT");
+console.log("================================");
+console.log("USD Amount:       $" + startingUsd);
+console.log("Exchange Rate:    ₦" + conversionRate + " / USD");
+console.log("Converted Amount:  ₦" + convertedAmount);
+console.log("Processing Fee:    ₦" + transactionFee);
+console.log("Final Amount:      ₦" + finalAmount);
+console.log("================================");
+console.log("Transaction complete.");
